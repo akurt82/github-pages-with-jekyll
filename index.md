@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "A Very First Test"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is nothing else but a test :-)
+
